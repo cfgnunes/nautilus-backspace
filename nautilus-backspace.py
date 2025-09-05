@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import os, gi
-gi.require_version('Nautilus', '4.0')
+gi.require_version('Nautilus', '4.1')
 gi.require_version('Gtk', '4.0')
 from gi.repository import GObject, Nautilus, Gtk, Gio, GLib
 
